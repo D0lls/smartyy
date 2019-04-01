@@ -1,0 +1,14 @@
+{
+    "name": "Andrusiak",
+    "description": "powered by @nilsine",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "Andrusiak Victor",
+        "email": "victor.andrusiak.sin@gmail.com"
+    }],
+    "require": {
+        "twig/twig": "2.0",
+        "smarty/smarty": "^3.1"
+    }
+}
